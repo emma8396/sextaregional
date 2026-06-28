@@ -1,0 +1,17 @@
+body {
+  font-family: Arial;
+  text-align: center;
+  background: #0b1d3a;
+  color: white;
+}
+
+.match {
+  margin: 10px;
+}
+
+button {
+  padding: 10px;
+  margin: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
