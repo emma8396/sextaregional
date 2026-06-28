@@ -38,3 +38,4 @@ function win(partidoIndex, equipo) {
 }
 
 render();
+render();
